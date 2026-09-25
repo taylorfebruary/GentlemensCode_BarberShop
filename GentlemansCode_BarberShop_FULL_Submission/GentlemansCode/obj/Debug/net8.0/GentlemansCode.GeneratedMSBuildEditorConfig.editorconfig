@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = GentlemansCode
 build_property.RootNamespace = GentlemansCode
-build_property.ProjectDir = C:\Users\Taylor\Downloads\GentlemansCode_BarberShop_FULL_Submission\GentlemansCode\
+build_property.ProjectDir = C:\Users\Taylor\source\repos\taylorfebruary\GentlemensCode_BarberShop\GentlemansCode_BarberShop_FULL_Submission\GentlemansCode\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Taylor\Downloads\GentlemansCode_BarberShop_FULL_Submission\GentlemansCode
+build_property.MSBuildProjectDirectory = C:\Users\Taylor\source\repos\taylorfebruary\GentlemensCode_BarberShop\GentlemansCode_BarberShop_FULL_Submission\GentlemansCode
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 8.0
 build_property.EnableCodeStyleSeverity = 
 
-[C:/Users/Taylor/Downloads/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/Booking/Confirmation.cshtml]
+[C:/Users/Taylor/source/repos/taylorfebruary/GentlemensCode_BarberShop/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/Booking/Confirmation.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xDb25maXJtYXRpb24uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Taylor/Downloads/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/Booking/Index.cshtml]
+[C:/Users/Taylor/source/repos/taylorfebruary/GentlemensCode_BarberShop/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/Booking/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQm9va2luZ1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Taylor/Downloads/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/Home/About.cshtml]
+[C:/Users/Taylor/source/repos/taylorfebruary/GentlemensCode_BarberShop/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/Home/About.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Taylor/Downloads/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/Home/Contact.cshtml]
+[C:/Users/Taylor/source/repos/taylorfebruary/GentlemensCode_BarberShop/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/Home/Contact.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Taylor/Downloads/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/Home/Index.cshtml]
+[C:/Users/Taylor/source/repos/taylorfebruary/GentlemensCode_BarberShop/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Taylor/Downloads/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/Home/Terms.cshtml]
+[C:/Users/Taylor/source/repos/taylorfebruary/GentlemensCode_BarberShop/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/Home/Terms.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXJtcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Taylor/Downloads/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/Services/Index.cshtml]
+[C:/Users/Taylor/source/repos/taylorfebruary/GentlemensCode_BarberShop/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/Services/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2VydmljZXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Taylor/Downloads/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/Shared/_Layout.cshtml]
+[C:/Users/Taylor/source/repos/taylorfebruary/GentlemensCode_BarberShop/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Taylor/Downloads/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/_ViewImports.cshtml]
+[C:/Users/Taylor/source/repos/taylorfebruary/GentlemensCode_BarberShop/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Taylor/Downloads/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/_ViewStart.cshtml]
+[C:/Users/Taylor/source/repos/taylorfebruary/GentlemensCode_BarberShop/GentlemansCode_BarberShop_FULL_Submission/GentlemansCode/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GentlemansCode")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ef9fbeae3ed0e6781d40da2cf064d2db9a5253d3")]
 [assembly: System.Reflection.AssemblyProductAttribute("GentlemansCode")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GentlemansCode")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
